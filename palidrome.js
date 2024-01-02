@@ -34,7 +34,4 @@ function expandAroundCenter(s, left, right) {
     return right - left - 1;
 }
 
-// Example usage:
-const inputString = "babad";
-const longestPalSubstring = longestPalindrome(inputString);
-console.log("Longest palindromic substring:", longestPalSubstring); // Output: "bab" or "aba"
+
