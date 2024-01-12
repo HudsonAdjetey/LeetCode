@@ -20,5 +20,5 @@ const zigZagConversion = (s, numRows) => {
         return rows.join('')
 }
 
-const str = "Hudson"
+const str = "Hudson "
 console.log(str.length)
